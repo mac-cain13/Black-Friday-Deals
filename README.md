@@ -85,6 +85,10 @@ Add powerful spam filtering to the e-mail client on your Mac.
 
 Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse or keyboard.
 
+### 💸 [Bezel](https://getbezel.app/) - 50% OFF during Black Friday weekend, Nov 29 - Dec 2
+
+Mirror any iPhone with a slick device frame and capture good looking screenshots and recordings right on your Mac.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
